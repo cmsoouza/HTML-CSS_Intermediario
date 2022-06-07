@@ -15,12 +15,14 @@
 
 - [Especificidade e Herança](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
 
-### Soluções
+### Dicas
 
 <p>
-    Para iniciantes ao html, a documentação é dividida em 3 partes;
+   <ul>
+        <li>Menu Vertical</li>
+        <li>Menu Horizontal</li>
+   </ul>
 </p>
-
 
 ---
 
